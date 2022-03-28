@@ -40,7 +40,7 @@ class Calculator {
                 case '*':
                 computation = prev * current
                 break
-                case '&divide;':
+                case '÷':
                 computation = prev / current
                 break
                 default:
